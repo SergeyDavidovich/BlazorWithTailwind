@@ -556,6 +556,10 @@ video {
   padding: 0.5rem;
 }
 
+.p-20 {
+  padding: 5rem;
+}
+
 .text-center {
   text-align: center;
 }
