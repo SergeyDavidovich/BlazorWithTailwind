@@ -8,4 +8,5 @@ The project is Blazor WASM + TailwindCSS CLI tools installation
 - [Using Tailwind Css With .Net Blazor](https://dev.to/rasheedmozaffar/using-tailwind-css-with-net-blazor-4ng7)
 
 ## String resources
+npx tailwindcss -i ./Styles/tailwind.css -o ./wwwroot/css/tailwind.css --watch
 
