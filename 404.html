@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+
+    <title>BlazorWithTailwind</title>
+    <base href="/BlazorWithTailwind/" />
+    <link href="css/tailwind.css" rel="stylesheet" />
+    <!--<link href="wwwroot/css/tailwind.css" rel="stylesheet" />-->
+    <!--<link href="/Styles/tailwind.css" rel="stylesheet" />-->
+    <!-- If you add any scoped CSS files, uncomment the following to load them
+    <link href="BlazorWithTailwind.styles.css" rel="stylesheet" /> -->
+</head>
+
+<body>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <div id="app">
+        <div class="bg-slate-900">
+            <p class="p-2 text-blue-400 text-8xl">Blazor and TailwindsCSS</p>
+            <p class="text-6xl text-center text-violet-300">Hello from TailwindCSS Cli</p>
+        </div>
+        <p class="p-1 text-xl text-blue-950">
+            npx tailwindcss -i ./Styles/tailwind.css -o ./wwwroot/css/tailwind.css --watch
+        </p>
+    </div>
+
+</body>
+
+</html>
