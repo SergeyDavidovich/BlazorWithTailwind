@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/SergeyDavidovich/BlazorWithTailwind/blob/master/BlazorTailwind.png)
 
 ## Project description ##
 ### The project is Blazor WASM + TailwindCSS CLI tools installation for visual Studio Wasm project alone template ###
