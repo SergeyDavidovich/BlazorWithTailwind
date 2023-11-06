@@ -1,13 +1,17 @@
-# BlazorWithTailwind
-## Description
-The project is Blazor WASM + TailwindCSS CLI tools installation
+![]()
+
+## Project description ##
+### The project is Blazor WASM + TailwindCSS CLI tools installation for visual Studio Wasm project alone template ###
+---
 ## Configuration and file structure
+
 ### File structure
 ```
-wwwroot
-  input --> input.css
-  output --> output.css
-tailwind.css
+project folder - BlazorWithTailwind (in this solution only)
+  wwwroot
+    input --> input.css
+    output --> output.css
+  tailwind.css
 ```
 ### wwwroot/src/tailwind.css
 ```
