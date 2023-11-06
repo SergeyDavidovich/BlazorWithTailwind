@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWithTailwind", "Blazo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{7A8BBF3E-D8D9-4295-A648-04853777AF5A}"
 	ProjectSection(SolutionItems) = preProject
-		BlazorTailwind.png = BlazorTailwind.png
+		blazor-tailwind.png = blazor-tailwind.png
 		main.yml = main.yml
 		README.md = README.md
 	EndProjectSection

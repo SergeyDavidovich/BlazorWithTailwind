@@ -1,5 +1,5 @@
 :x:Still not ready, in progress !!!
-![](https://github.com/SergeyDavidovich/BlazorWithTailwind/blob/master/BlazorTailwind.png)
+![](https://github.com/SergeyDavidovich/BlazorWithTailwind/blob/master/blazor-tailwind.png)
 ----
 ## Project description ##
 ### The project is Blazor WASM + TailwindCSS CLI tools installation for visual Studio Wasm project alone template ###
