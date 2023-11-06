@@ -1,7 +1,6 @@
 # BlazorWithTailwind
 ## Description
 The project is Blazor WASM + TailwindCSS CLI tools installation
-
 ## Configuration and file structure
 ### File structure
 ```
@@ -32,10 +31,8 @@ module.exports = {
     <base href="/" />
     <link href="css/tailwind.css" rel="stylesheet" />
 ```
-
 ## Terminal compilation string
 npx tailwindcss -i ./Styles/tailwind.css -o ./wwwroot/css/tailwind.css --watch
-
 ## Project links
 - [Installation - Tailwind CSS](https://tailwindcss.com/docs/installation)
 - [Adding Tailwind CSS v3 to a Blazor app](https://chrissainty.com/adding-tailwind-css-v3-to-a-blazor-app/)
