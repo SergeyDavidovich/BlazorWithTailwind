@@ -3,7 +3,7 @@
 ## Project description ##
 ### The project is Blazor WASM + TailwindCSS CLI tools installation for visual Studio Wasm project alone template ###
 ---
-## Configuration and file structure
+## File structure and configuration 
 
 ### File structure
 ```
