@@ -13,13 +13,13 @@ project folder - BlazorWithTailwind (in this solution only)
     output --> output.css
   tailwind.css
 ```
-### wwwroot/src/tailwind.css
+### File - wwwroot/src/tailwind.css
 ```
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 ```
-### tailwind.config.js
+### File - tailwind.config.js
 ```
 /** @type {import('tailwindcss').Config} */
 module.exports = {
@@ -30,7 +30,7 @@ module.exports = {
   plugins: [],
 }
 ```
-### index.html
+### File - index.html
 ```
     <base href="/" />
     <link href="css/tailwind.css" rel="stylesheet" />
