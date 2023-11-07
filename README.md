@@ -6,7 +6,7 @@
 ## 1. Prerequisites ##
 ### Install Tailwind CSS ###
 
-Open project folder BlazorWithTailwind (for this solution only)
+Open in terminal project folder BlazorWithTailwind (for this solution only)
 ```
 npm install -D tailwindcss 
 npx tailwindcss init
