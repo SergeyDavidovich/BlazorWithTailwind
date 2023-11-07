@@ -1,7 +1,7 @@
 ![](https://github.com/SergeyDavidovich/BlazorWithTailwind/blob/master/blazor-tailwind.png)
 ----
 ## Project description ##
-### The project is Blazor and TailwindCSS CLI tools installation for visual Studio Wasm standalone project template ###
+### The project is Blazor and TailwindCSS CLI tools installation for Visual Studio Wasm standalone project template ###
 ---
 ## File structure and configuration 
 ### File structure
