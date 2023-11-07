@@ -4,8 +4,8 @@
 ### The project is Blazor and TailwindCSS CLI tools installation for Visual Studio Wasm standalone project template ###
 ---
 ## 1. Prerequisites ##
+### Create new Blazor Wasm project in Visual Studio ###
 ### Install Tailwind CSS ###
-
 Open in terminal project folder BlazorWithTailwind (for this solution only)
 ```
 npm install -D tailwindcss 
