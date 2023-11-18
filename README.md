@@ -6,7 +6,7 @@
 ## 1. Prerequisites ##
 ### Create new Blazor Wasm project in Visual Studio ###
 ### Install Tailwind CSS ###
-Open in terminal project folder BlazorWithTailwind (The folder where the .csproj file is located)
+Open in terminal project folder (the folder where the .csproj file is located)
 ```
 npm install -D tailwindcss 
 npx tailwindcss init
@@ -15,7 +15,7 @@ npx tailwindcss init
 ## 2. File structure and configuration 
 ### File structure
 ```
-project folder - BlazorWithTailwind (The folder where the .csproj file is located)
+project folder (the folder where the .csproj file is located)
     tailwind.config.js
         Styles/tailwind.css
         wwwroot/dist/tailwind.css
