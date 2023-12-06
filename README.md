@@ -43,7 +43,7 @@ module.exports = {
     <link href="dist/tailwind.css" rel="stylesheet" />
 ```
 ## 3. Terminal compilation string
-#### npx tailwindcss -i ./Styles/tailwind.css -o ./wwwroot/dist/tailwind.css --watch ####
+``` npx tailwindcss -i ./Styles/tailwind.css -o ./wwwroot/dist/tailwind.css --watch ```
 ## 4. Project links
 - [Installation - Tailwind CSS](https://tailwindcss.com/docs/installation)
 - [Adding Tailwind CSS v3 to a Blazor app](https://chrissainty.com/adding-tailwind-css-v3-to-a-blazor-app/)
