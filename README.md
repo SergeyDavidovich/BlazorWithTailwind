@@ -44,6 +44,7 @@ module.exports = {
 ```
 ## 3. Terminal compilation string
 Open project folder in terminal and run the string below to update content in dist/tailwind.css
+
 ``` npx tailwindcss -i ./Styles/tailwind.css -o ./wwwroot/dist/tailwind.css --watch ```
 ## 4. Project links
 - [Installation - Tailwind CSS](https://tailwindcss.com/docs/installation)
