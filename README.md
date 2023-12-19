@@ -20,7 +20,7 @@ project folder (the folder where the .csproj file is located)
         Styles/tailwind.css
         wwwroot/dist/tailwind.css
 ```
-### File content - wwwroot/input/input.css
+### File content - /Styles/tailwind.css
 ```
 @tailwind base;
 @tailwind components;
